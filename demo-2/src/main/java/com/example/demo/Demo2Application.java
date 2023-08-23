@@ -8,6 +8,9 @@ public class Demo2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Demo2Application.class, args);
+		//task1
+		//task2
+		//task3
 	}
 
 }
